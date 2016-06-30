@@ -419,3 +419,7 @@ body {
 #tickets {
   padding-bottom: 20px;
 }
+.notice {
+  text-decoration: underline;
+  font-weight: bold;
+}
